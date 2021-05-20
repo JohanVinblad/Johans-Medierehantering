@@ -1,0 +1,10 @@
+C:\Users\Rx580\source\repos\Johan_medieregister\Johan_medieregister\bin\Debug\Johan_medieregister.exe.config
+C:\Users\Rx580\source\repos\Johan_medieregister\Johan_medieregister\bin\Debug\Johan_medieregister.exe
+C:\Users\Rx580\source\repos\Johan_medieregister\Johan_medieregister\bin\Debug\Johan_medieregister.pdb
+C:\Users\Rx580\source\repos\Johan_medieregister\Johan_medieregister\obj\Debug\Johan_medieregister.csprojAssemblyReference.cache
+C:\Users\Rx580\source\repos\Johan_medieregister\Johan_medieregister\obj\Debug\Johan_medieregister.Form1.resources
+C:\Users\Rx580\source\repos\Johan_medieregister\Johan_medieregister\obj\Debug\Johan_medieregister.Properties.Resources.resources
+C:\Users\Rx580\source\repos\Johan_medieregister\Johan_medieregister\obj\Debug\Johan_medieregister.csproj.GenerateResource.cache
+C:\Users\Rx580\source\repos\Johan_medieregister\Johan_medieregister\obj\Debug\Johan_medieregister.csproj.CoreCompileInputs.cache
+C:\Users\Rx580\source\repos\Johan_medieregister\Johan_medieregister\obj\Debug\Johan_medieregister.exe
+C:\Users\Rx580\source\repos\Johan_medieregister\Johan_medieregister\obj\Debug\Johan_medieregister.pdb
